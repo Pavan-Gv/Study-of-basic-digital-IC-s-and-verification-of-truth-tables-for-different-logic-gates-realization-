@@ -71,8 +71,6 @@ Program to verify the truth table in quartus for the basic logic gates using Ver
 Developed by: G Venkata Pavan Kumar
 RegisterNumber: 212221240013
 ```
-Logic symbol & Truthtable
-RTL realization
 ```
 module Gates (a, b, yand, yor, ynot, yxor, ynand, ynor, yxnor);
 input a, b;
