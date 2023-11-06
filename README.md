@@ -93,7 +93,6 @@ endmodule
 ![image](https://github.com/Pavan-Gv/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/94827772/bd3c3321-23d5-4f87-a807-95a09141df99)
 
 ### Output:
-RTL:
 ![image](https://github.com/Pavan-Gv/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/94827772/3d0e57db-ca82-4a3d-8793-0d001a92aa53)
 
 ### Result:
